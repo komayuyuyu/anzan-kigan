@@ -43,7 +43,6 @@ a{
 
 .cloud-container{
   position: absolute;
-  /* margin-bottom: 40px; */
 }
 
 .egasumi-1{top: -40px; right: 0;}
@@ -60,7 +59,6 @@ a{
 
 .result{
   width: 214px;
-  /* margin-bottom: 40px; */
 }
 
 .inner{
@@ -76,7 +74,6 @@ a{
   font-size: calc(24rem/16);
   border: none;
   background-color: #C6A222;
-  margin-top: 20px;
   color: #fff;
   -webkit-appearance: none;
 }
