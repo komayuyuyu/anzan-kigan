@@ -26,6 +26,7 @@ img{
     height: auto;
     vertical-align: bottom;
 }
+
 a{
   color: #333;
   text-decoration: none;
@@ -76,6 +77,8 @@ a{
   border: none;
   background-color: #C6A222;
   margin-top: 20px;
+  color: fff;
+  -webkit-appearance: none;
 }
 
 @keyframes float{
