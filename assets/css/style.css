@@ -26,6 +26,10 @@ img{
     height: auto;
     vertical-align: bottom;
 }
+a{
+  color: #333;
+  text-decoration: none;
+}
 
 .anzan-scene{
   position: relative;
